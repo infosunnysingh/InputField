@@ -1,4 +1,4 @@
-# Vanilla-JS-List-View-hackerrank
+# Vanilla-JS-List-View
 **This project renders List View with vanilla Javascript!**
 *Yupp!! It does just that.* 
 This is the solution I provided to one of the vanilla JS coding question I faced for an online test on hackerrank..
